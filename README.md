@@ -11,6 +11,12 @@ This is a learning project: a small end-to-end example of combining an LLM with 
 3. Remotion renders the slides from light React templates (cover, info, facts, final) to PNG, as a 4:5 carousel or a 9:16 story.
 4. The result lands in `output/`: `instagram.md` (caption to paste, notes for the author) and `1.png`, `2.png`… in slide order.
 
+## Example
+
+A carousel rendered by the real templates from a hand-written sample post (swipe order, left to right). The matching caption and author notes are in [`docs/example/instagram.md`](docs/example/instagram.md).
+
+<table><tr><td><img src="docs/example/1.png" alt="Slide 1"></td><td><img src="docs/example/2.png" alt="Slide 2"></td><td><img src="docs/example/3.png" alt="Slide 3"></td><td><img src="docs/example/4.png" alt="Slide 4"></td><td><img src="docs/example/5.png" alt="Slide 5"></td></tr></table>
+
 ## Tech Stack
 
 | What | Why |
