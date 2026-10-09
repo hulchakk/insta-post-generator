@@ -1,0 +1,10 @@
+.env
+.venv/
+node_modules/
+output/*
+!output/.gitkeep
+__pycache__/
+.idea/
+.claude/
+.DS_Store
+rep.md
